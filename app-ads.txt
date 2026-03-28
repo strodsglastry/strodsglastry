@@ -1,0 +1,53 @@
+# Appodeal
+appodeal.com, 262325, DIRECT
+
+# BidMachine
+bidmachine.io, 1, DIRECT
+bidmachine.io, 466, DIRECT
+
+# Meta Audience Network
+facebook.com, 338725043287467, RESELLER, c3e20eee3f780d68
+
+# Resellers (Appodeal partners)
+152media.info, 152M312, RESELLER
+152media.info, 152M499, RESELLER
+152media.info, 152M1093, RESELLER
+152media.info, 152M1133, RESELLER
+152media.info, 152M1134, RESELLER
+152media.info, 152M698, RESELLER
+
+33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
+33across.com, 0010b00002dVKxbAAG, RESELLER, bbea06d9c4d2853c
+33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
+
+9dotsmedia.com, 122262, RESELLER, 45ff185b4c4e857d
+
+adbility-media.com, 187, RESELLER
+
+adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
+adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
+
+adform.com, 1762, RESELLER
+adform.com, 1985, RESELLER, 9f5210a2f0999e32
+
+admanmedia.com, 2037, RESELLER
+admanmedia.com, 2153, RESELLER
+
+appnexus.com, 10824, RESELLER
+appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
+
+aps.amazon.com, 1ebcb2cb-e55f-4c08-94a0-e79fe207a5b6, RESELLER
+
+axonix.com, 56222, RESELLER
+
+chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
+
+criteo.com, B-062019, RESELLER, 9fac4a4a87c2a44f
+
+fyber.com, 221376, RESELLER, 1ad675c9de6b5176
+
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
+google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
+
+unity.com, 56122, RESELLER
+vungle.com, 541793875321, RESELLER
